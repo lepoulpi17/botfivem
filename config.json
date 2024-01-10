@@ -1,0 +1,47 @@
+{
+  "token": "TOKEN",
+  "bot_id": "ID_BOT",
+  "settings": {
+    "guild_id": "ID_SERVEUR_DISCORD", 
+    "channels": {
+      "auto_message": "ID_CHANNEL_MESSAGE_AUTOMATIQUE",
+      "bda_text": "ID_CHANNEL_CLASSEMENT_BDA",
+      "bda_voice": "ID_CHANNEL_VOCAL_BDA",
+      "visa_text": "ID_CHANNEL_CLASSEMENT_VISA",
+      "visa_voice": "ID_CHANNEL_VOCAL_VISA",
+      "logs": "ID_LOGS_CHANNEL",
+      "waiting_too_long_bda": "ID_CHANNEL_BDA_ATTENTE",
+      "waiting_too_long_visa": "ID_CHANNEL_VOCAL_VISA"
+    },
+    "temp_roles": [
+      {
+        "voiceChannelId": "ID_CHANNEL_BDA1",
+        "roleId": "ID_ROLE_BDA1"
+      }, 
+      {
+        "voiceChannelId": "ID_CHANNEL_BDA2",
+        "roleId": "ID_ROLE_BDA2"
+      },
+      {
+        "voiceChannelId": "ID_CHANNEL_BDA3",
+        "roleId": "ID_ROLE_BDA3"
+      },
+      {
+        "voiceChannelId": "ID_CHANNEL_BDA4",
+        "roleId": "ID_ROLE_BDA4"
+      },
+      {
+        "voiceChannelId": "ID_CHANNEL_BDA5",
+        "roleId": "ID_ROLE_BDA5"
+      },
+      {
+        "voiceChannelId": "ID_CHANNEL_BDA6",
+        "roleId": "ID_ROLE_BDA6"
+      }
+    ]
+  },
+  "data": {
+    "bda_message_id": "399499434",
+    "visa_message_id": "42494949"
+  }
+}
