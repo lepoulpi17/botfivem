@@ -4,7 +4,9 @@
 Notre bot Discord Opensource offre une suite de commandes puissantes et intuitives pour une gestion efficace de votre communauté. Parmi elles :
 
 /banall <ID du joueur> [raison] : Bannit un joueur de tous les serveurs sur le qu'elle le bot est présent en un seul clic.
+
 /unbanall <ID du joueur> [raison] : Révoque le bannissement sur tous les serveurs sur le qu'elle le bot est présent facilement.
+
 /kickall <ID du joueur> [raison] : Exclut un joueur de tous les serveurs sur le qu'elle le bot est présent instantanément.
 
 🔹 Automatisation et Gestion des Rôles :
