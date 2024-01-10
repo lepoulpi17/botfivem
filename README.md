@@ -1,4 +1,4 @@
-# 🌟 Présentation du Bot Discord Polyvalent 🌟
+# 🌟 Présentation du Bot Discord FiveM OpenSource 🌟
 
 🔹 Fonctionnalités Uniques :
 Notre bot Discord Opensource offre une suite de commandes puissantes et intuitives pour une gestion efficace de votre communauté. Parmi elles :
